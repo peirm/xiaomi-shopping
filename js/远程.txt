@@ -1,0 +1,6 @@
+<!-- 远程加载，通过免费的CDN服务，我们就可以加载非本地的jquery -->
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.js"></script>
+
+http://www.bootcdn.cn/
+
+http://www.w3school.com.cn
